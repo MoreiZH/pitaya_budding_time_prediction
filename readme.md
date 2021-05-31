@@ -1,5 +1,5 @@
 # pitaya_budding_time_prediction
-Budding time of pitaya is related to temperature and sunshine duration. This project use temperature and sunshine duration to find the budding feature, and use that feature to predict the budding time.
+Budding time of pitaya is related to temperature and sunshine duration. This project uses temperature and sunshine duration to find the budding feature, and use that feature to predict the budding time.
 # Installation
 This tool is written with python3.8, the packages used are listed in requirements.txt, install them by command line: *pip install -r requirements.txt*
 # Usage
